@@ -1,4 +1,4 @@
-### 🌱 Check out some of my creation
+### 🌱 Check out some of my creations
 
 - https://nickcasm.github.io/my-website/
 - https://nickcasm.github.io/tindog/
